@@ -7,7 +7,18 @@ body{
     justify-content: center;
     align-items: center;
     background-color: steelblue;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin: 10px;
+}
+
+.bg_color_green{
+    background-color: aquamarine;
+}
+
+.bg_color_yellow{
+    background-color: yellow;
+}
+.bg_color_red{
+    background-color:crimson;
 }
